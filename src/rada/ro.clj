@@ -8,7 +8,7 @@
 
 ;; **
 ;;; Необхідні функції для считування та розпізнання результатів голосувань з 2015 р.
-;;; Доступна за адресою http://viewer.gorilla-repl.org/view.html?source=github&user=bogdartysh&repo=rada-stats&path=src/rada/r4.clj
+;;; Повний код програми доступний за адресою http://viewer.gorilla-repl.org/view.html?source=github&user=bogdartysh&repo=rada-stats&path=src/rada/r4.clj
 ;; **
 
 ;; **
